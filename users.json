@@ -1,0 +1,10 @@
+{
+  "users": [
+    {
+      "name": "gabriel",
+      "salt": "v9/Hnq62j/Kh9/6ztjrG2Q==",
+      "hash": "QEz47eQiLRTiAl7yD0UZREMp8wfd4WlR90g+85os4NA=",
+      "iter": 200000
+    }
+  ]
+}
