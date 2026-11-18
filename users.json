@@ -5,6 +5,12 @@
       "salt": "4Km2UUV3usRFtlJEENylbA==",
       "hash": "MLlN4QhcXnNwHfKldhuQDvV28B2k2FAWJzXNx8anc2U=",
       "iter": 200000
+    },
+    {
+      "name": "paulegger",
+      "salt": "ngDclkvoICgC84zcII3AKg==",
+      "hash": "+ubQV3FNRlpr5uAHULYQWI1E8Tza91lNw7pf7Inbj6I=",
+      "iter": 200000
     }
   ]
 }
